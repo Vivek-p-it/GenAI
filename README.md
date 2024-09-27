@@ -1,1 +1,2 @@
 # GenAI
+Technologies Used - Python
